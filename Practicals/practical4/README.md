@@ -1,5 +1,7 @@
 # Comparison between RNN, LSTM, and GRU
 
+### [Code Repository Link](https://github.com/C-gyeltshen/Simple_LSTM_implementation.git)
+
 | Feature             | RNN                       | LSTM                      | GRU                        |
 | ------------------- | ------------------------- | ------------------------- | -------------------------- |
 | Architecture        | Simple recurrent layer    | Complex with memory cells | Simplified version of LSTM |

@@ -125,13 +125,14 @@ Encoded:  [145, 2341, 146, 0, 0, ...]  (padded to max_length)
   - English: ~7,000-8,000 unique words
   - French: ~12,000-15,000 unique words
 
----
 
 ## Model Architecture
 
 The model follows a **Seq2Seq architecture with Attention**, consisting of three main components:
 
 ![1](image/1.png)
+
+![2](image/2.png)
 
 ### 1. **Encoder (Bidirectional LSTM)**
 

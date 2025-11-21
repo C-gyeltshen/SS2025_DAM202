@@ -1,6 +1,6 @@
 # Assignemn 2 : Predicting the weather category
 
-[Repository Link](https://github.com/C-gyeltshen/DAM202-Assignment2.git)
+## [Repository Link](https://github.com/C-gyeltshen/DAM202-Assignment2.git)
 
 ## 1. Dataset collection
 
